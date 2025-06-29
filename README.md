@@ -63,6 +63,9 @@ FullStackDocker/
   docker-compose up --build
   ```
 
+  ![image](https://github.com/user-attachments/assets/a030d29c-3a97-4432-9e9b-c7def4b8dd4b)
+
+
 ## License
 
 This project is licensed under the ISC License.
